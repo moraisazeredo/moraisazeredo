@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm João Victor</h1>
 <h3 align="center">Apaixonado por Análise de Dados e por Tecnologia</h3>
 
-- 🌱 Atualmente estou aprimorando meus conhecimentos em **Python e SQL**
+- 🌱 Atualmente estou aprimorando meus conhecimentos em **Machine Learning e Estatística aplicada**
 
 - 📝 Eu escrevo artigos no site [https://medium.com/@joov611](https://medium.com/@joov611)
 
-- 💬 Me pergunte sobre **Python, SQL, Power BI e Excel**
+- 💬 Me pergunte sobre **Python, SQL, Power BI e Excel e estatística**
 
 - 📫 Você me acha através do e-mail **joov611@gmail.com**
 
